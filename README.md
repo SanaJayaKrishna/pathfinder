@@ -1,6 +1,6 @@
-# 🧭 PathLab – Interactive 2D Path Finding Visualizer
+# 🧭 PathFinder – Interactive 2D Path Finding Visualizer
 
-PathLab is a **Streamlit-based interactive application** for visualizing and comparing classical **path finding algorithms** on a 2D grid world.
+PathFinder is a **Streamlit-based interactive application** for visualizing and comparing classical **path finding algorithms** on a 2D grid world.
 The project is designed as a **learning, experimentation, and demonstration tool** for path planning concepts used in robotics, autonomous navigation, and AI.
 
 ---
