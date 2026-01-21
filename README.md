@@ -1,4 +1,4 @@
-# 🧭 PathFinder – Interactive 2D Path Finding Visualizer [TRY APP HERE](https://sanapathfinder.streamlit.app/)
+# 🧭 PathFinder – Interactive 2D Path Finding Visualizer 
 
 PathFinder is a **Streamlit-based interactive application** for visualizing and comparing classical **path finding algorithms** on a 2D grid world.
 The project is designed as a **learning, experimentation, and demonstration tool** for path planning concepts used in robotics, autonomous navigation, and AI.
@@ -44,7 +44,7 @@ The project is designed as a **learning, experimentation, and demonstration tool
 ## 🖥️ Live Demo
 
 👉 **Streamlit App URL:**
-`[PLACEHOLDER – Add Streamlit Cloud App URL Here]`
+[Streamlit Cloud App URL](https://sanapathfinder.streamlit.app/)
 
 ---
 
