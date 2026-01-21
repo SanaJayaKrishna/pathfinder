@@ -43,8 +43,7 @@ The project is designed as a **learning, experimentation, and demonstration tool
 
 ## 🖥️ Live Demo
 
-👉 **Streamlit App URL:**
-[Streamlit Cloud App URL](https://sanapathfinder.streamlit.app/)
+👉 [Streamlit Cloud App URL](https://sanapathfinder.streamlit.app/)
 
 ---
 
